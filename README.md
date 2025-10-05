@@ -6,3 +6,5 @@ Thanks to ShebinJoseJacob For the code and circuit Diagram and thanks to https:/
 Go Check out ShebinJoseJacob's work here :- https://github.com/CodersCafeTech/Emo/blob/main
 
 I have changed the 3D Design to the actual EMO
+
+You can change the shape of the eyes to square to make it look like the real EMO
